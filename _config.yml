@@ -1,0 +1,28 @@
+name: shanacoy
+favicon: null
+layout_spectrum: 0.18512031040154397
+typography_spectrum: 0.7679346569348127
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8121907617896795
+  lightness: 0.80883409967646
+  saturation: 0.2954971669241786
+  rhythmicContrast: 0.8432299615815282
+purpose: []
